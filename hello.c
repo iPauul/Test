@@ -1,4 +1,4 @@
 #includ<stdio.h>
 void main(){
-printf("Hello");
+printf("Hello.c");
 }
